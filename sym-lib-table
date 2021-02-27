@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name megatosimm-eagle-import)(type Legacy)(uri ${KIPRJMOD}/megatosimm-eagle-import.lib)(options "")(descr ""))
+  (lib (name megatosimm-rescue)(type Legacy)(uri ${KIPRJMOD}/megatosimm-rescue.lib)(options "")(descr ""))
+)
